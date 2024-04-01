@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:14:03:47 +0300] "GET /mymavenwebapp/viewAllBooks.do HTTP/1.1" 200 10084
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:14:03:47 +0300] "GET /mymavenwebapp/styles.css;jsessionid=CFB1D14B23369043DA33558BD212F675 HTTP/1.1" 200 2520
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:14:03:47 +0300] "GET /mymavenwebapp/cart-button.png;jsessionid=CFB1D14B23369043DA33558BD212F675 HTTP/1.1" 200 891
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:14:03:47 +0300] "GET /mymavenwebapp/background.gif HTTP/1.1" 200 115
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:14:03:48 +0300] "GET /favicon.ico HTTP/1.1" 200 21630
